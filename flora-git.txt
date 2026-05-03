@@ -1,4 +1,0 @@
-mkdir mfile
-md mfile
-git add mfile
-git clone "url"
